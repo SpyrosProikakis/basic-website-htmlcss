@@ -1,3 +1,1 @@
- Επιλέξαμε τη δημιουργία ενός Ταξιδιωτικού Οδηγού και υλοποιήσαμε την ιστοσελίδα μας, με τη χρήση html και css, βασιζόμενοι στις γνώσεις που έχουμε αποκομίσει από τις 
- εργαστηριακές διαλέξεις του μαθήματος και από προσωπική μας αναζήτηση στο διαδίκτυο. Η εργασία μας περιλαμβάνει ένα μενού, στο οποίο αναγράφονται τα περιεχόμενα του ταξιδιωτικού 
- μας οδηγού και από τα οποία ο επισκέπτης μπορεί να ανακαλύψει όλα όσα χρειάζεται για ένα ολοκληρωμένο ταξίδι στο νησί της Ρόδου.
+We chose the creation of a travel guide and implemented our website, using html and css, based on the knowledge we have gained from the laboratory lectures of the course and from our personal search on the internet. Our work includes a menu, which lists the contents of our travel guide and from which the visitor can discover everything he needs for a complete trip to the island of Rhodes.
